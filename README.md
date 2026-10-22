@@ -1,4 +1,4 @@
-# PropTech 360 Data Engineering Capstone
+# Real-Estate Data Engineering Project
 
 ## Project overview
 

@@ -1,0 +1,21 @@
+{
+  "Records": [
+    {
+      "eventSource": "aws:s3",
+      "eventName": "ObjectCreated:Put",
+      "eventTime": "2026-10-17T09:01:35.373Z",
+      "awsRegion": "eu-north-1",
+      "s3": {
+        "bucket": {
+          "name": "proptech360"
+        },
+        "object": {
+          "key": "raw/properties.csv",
+          "size": 443,
+          "eTag": "568f7ff268aa44864f9feffe4f1dd99f",
+          "sequencer": "006AD3396F55C38291"
+        }
+      }
+    }
+  ]
+}

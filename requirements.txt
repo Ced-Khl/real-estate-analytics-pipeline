@@ -1,0 +1,7 @@
+pandas==3.0.6
+numpy==2.5.4
+pyspark==4.0.2
+pyarrow==26.0.0
+psycopg[binary]==3.3.6
+pytest==9.1.1
+ipykernel==7.4.0

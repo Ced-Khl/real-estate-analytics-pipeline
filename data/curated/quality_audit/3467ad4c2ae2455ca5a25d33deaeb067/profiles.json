@@ -1,0 +1,129 @@
+{
+  "properties": {
+    "row_count": 12,
+    "nulls_by_column": {
+      "property_id": 0,
+      "property_name": 0,
+      "city": 0
+    },
+    "blanks_by_column": {
+      "property_id": 0,
+      "property_name": 0,
+      "city": 0
+    },
+    "duplicate_identifier_count": 0,
+    "exact_duplicate_count": 0,
+    "types": {
+      "property_id": "string",
+      "property_name": "string",
+      "city": "string"
+    }
+  },
+  "units": {
+    "row_count": 241,
+    "nulls_by_column": {
+      "unit_id": 0,
+      "property_id": 0,
+      "floor_area_sqm": 0,
+      "active": 0
+    },
+    "blanks_by_column": {
+      "unit_id": 0,
+      "property_id": 0,
+      "floor_area_sqm": 0,
+      "active": 0
+    },
+    "duplicate_identifier_count": 1,
+    "exact_duplicate_count": 1,
+    "types": {
+      "unit_id": "string",
+      "property_id": "string",
+      "floor_area_sqm": "string",
+      "active": "string"
+    }
+  },
+  "leases": {
+    "row_count": 198,
+    "nulls_by_column": {
+      "lease_id": 0,
+      "unit_id": 0,
+      "start_date": 0,
+      "end_date": 0,
+      "monthly_rent_usd": 0
+    },
+    "blanks_by_column": {
+      "lease_id": 0,
+      "unit_id": 0,
+      "start_date": 0,
+      "end_date": 139,
+      "monthly_rent_usd": 0
+    },
+    "duplicate_identifier_count": 0,
+    "exact_duplicate_count": 0,
+    "types": {
+      "lease_id": "string",
+      "unit_id": "string",
+      "start_date": "string",
+      "end_date": "string",
+      "monthly_rent_usd": "string"
+    }
+  },
+  "work_orders": {
+    "row_count": 1501,
+    "nulls_by_column": {
+      "work_order_id": 0,
+      "unit_id": 0,
+      "opened_date": 0,
+      "closed_date": 0,
+      "priority": 0,
+      "response_hours": 0,
+      "cost_usd": 0,
+      "status": 0
+    },
+    "blanks_by_column": {
+      "work_order_id": 0,
+      "unit_id": 0,
+      "opened_date": 0,
+      "closed_date": 295,
+      "priority": 0,
+      "response_hours": 295,
+      "cost_usd": 0,
+      "status": 0
+    },
+    "duplicate_identifier_count": 1,
+    "exact_duplicate_count": 1,
+    "types": {
+      "work_order_id": "string",
+      "unit_id": "string",
+      "opened_date": "string",
+      "closed_date": "string",
+      "priority": "string",
+      "response_hours": "string",
+      "cost_usd": "string",
+      "status": "string"
+    }
+  },
+  "meter_readings": {
+    "row_count": 1440,
+    "nulls_by_column": {
+      "reading_id": 0,
+      "unit_id": 0,
+      "reading_month": 0,
+      "energy_kwh": 0
+    },
+    "blanks_by_column": {
+      "reading_id": 0,
+      "unit_id": 0,
+      "reading_month": 0,
+      "energy_kwh": 0
+    },
+    "duplicate_identifier_count": 0,
+    "exact_duplicate_count": 0,
+    "types": {
+      "reading_id": "string",
+      "unit_id": "string",
+      "reading_month": "string",
+      "energy_kwh": "string"
+    }
+  }
+}

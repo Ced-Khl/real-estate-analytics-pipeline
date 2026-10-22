@@ -1,0 +1,3 @@
+reading_id,unit_id,reading_month,energy_kwh,reason_code,run_id
+R000035,P999-U999,2026-05-01,1205.75,UNKNOWN_UNIT,3467ad4c2ae2455ca5a25d33deaeb067
+R000018,P001-U003,2026-06-01,-45,NEGATIVE_ENERGY_KWH,3467ad4c2ae2455ca5a25d33deaeb067

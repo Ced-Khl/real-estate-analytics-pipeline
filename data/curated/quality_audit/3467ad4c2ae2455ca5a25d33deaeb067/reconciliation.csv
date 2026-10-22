@@ -1,0 +1,6 @@
+dataset,input_rows,accepted_rows,quarantined_rows,duplicate_rows_in_quarantine,reconciled,run_id
+properties,12,12,0,0,True,3467ad4c2ae2455ca5a25d33deaeb067
+units,241,240,1,1,True,3467ad4c2ae2455ca5a25d33deaeb067
+leases,198,198,0,0,True,3467ad4c2ae2455ca5a25d33deaeb067
+work_orders,1501,1498,3,1,True,3467ad4c2ae2455ca5a25d33deaeb067
+meter_readings,1440,1438,2,0,True,3467ad4c2ae2455ca5a25d33deaeb067

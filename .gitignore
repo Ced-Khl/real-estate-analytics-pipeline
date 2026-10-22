@@ -1,0 +1,16 @@
+# Python environments and caches
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Private configuration
+.env
+.env.*
+!.env.example
+.aws/
+
+# Generated archives
+*.zip

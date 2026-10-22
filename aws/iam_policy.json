@@ -1,0 +1,23 @@
+{
+  "Version": "2012-10-17",
+  "Id": "default",
+  "Statement": [
+    {
+      "Sid": "lambda-82c987be-2e93-47ee-afae-f4b62c86e0be",
+      "Effect": "Allow",
+      "Principal": {
+        "Service": "s3.amazonaws.com"
+      },
+      "Action": "lambda:InvokeFunction",
+      "Resource": "arn:aws:lambda:eu-north-1:576984879262:function:proptech360-raw-audit",
+      "Condition": {
+        "StringEquals": {
+          "AWS:SourceAccount": "576984879262"
+        },
+        "ArnLike": {
+          "AWS:SourceArn": "arn:aws:s3:::proptech360"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "audit_id": "f71444f84751d89f81b0ae44f5e9ed0902dd0acbb2d928ae2c3c990aaee4dc26",
+  "source_bucket": "proptech360",
+  "source_key": "raw/properties.csv",
+  "event_name": "ObjectCreated:Put",
+  "event_time": "2026-10-17T09:01:35.373Z",
+  "event_etag": "568f7ff268aa44864f9feffe4f1dd99f",
+  "sequencer": "006AD3396F55C38291",
+  "event_size_bytes": 443,
+  "observed_etag": "568f7ff268aa44864f9feffe4f1dd99f",
+  "observed_size_bytes": 443,
+  "observed_last_modified_utc": "2026-10-17T09:01:36+00:00",
+  "content_type": "text/csv",
+  "server_side_encryption": "AES256",
+  "status": "ACCEPTED_METADATA",
+  "reason_codes": [],
+  "validation_scope": "Arrival metadata only; CSV content not validated."
+}

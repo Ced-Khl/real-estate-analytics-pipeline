@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "properties.csv",
+    "row_count": 12,
+    "ingest_timestamp_utc": "2026-10-16T20:04:00.117129+00:00",
+    "sha256": "c9865bcf2b142026c5dd05547f9c14d3e11f5a27a3e22bca52f5efe0c795ef19"
+  },
+  {
+    "filename": "units.csv",
+    "row_count": 241,
+    "ingest_timestamp_utc": "2026-10-16T20:04:00.121640+00:00",
+    "sha256": "f9bcef3d08d4662c270bfff385299306995ed6ba3f0c54e6b3754274a53c2748"
+  },
+  {
+    "filename": "leases.csv",
+    "row_count": 198,
+    "ingest_timestamp_utc": "2026-10-16T20:04:00.125646+00:00",
+    "sha256": "b6a8e10a11dfbca4358d5a9d60ad4709bc6511417137aeb58e389b21e31ebe0a"
+  },
+  {
+    "filename": "work_orders.csv",
+    "row_count": 1501,
+    "ingest_timestamp_utc": "2026-10-16T20:04:00.141648+00:00",
+    "sha256": "835c05c0410f7a481d71f4efa8213520d012688ebb8b757d2784e889de750fe4"
+  },
+  {
+    "filename": "meter_readings.csv",
+    "row_count": 1440,
+    "ingest_timestamp_utc": "2026-10-16T20:04:00.151647+00:00",
+    "sha256": "93684a8ed99f3e4f368646d2f766a41805d54e7db5ef43b0e602cec1a6772346"
+  }
+]

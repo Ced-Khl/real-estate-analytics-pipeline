@@ -1,0 +1,8 @@
+{
+  "run_id": "3467ad4c2ae2455ca5a25d33deaeb067",
+  "staging_directory": "data\\staging\\3467ad4c2ae2455ca5a25d33deaeb067",
+  "quarantine_directory": "data\\quarantine\\3467ad4c2ae2455ca5a25d33deaeb067",
+  "exact_duplicates_counted_as_quarantined": true,
+  "missing_resolved_response_policy": "Retain and flag; exclude from SLA-eligible denominator.",
+  "overlapping_lease_policy": "Retain and flag; resolve month-end conflicts before KPI aggregation."
+}
